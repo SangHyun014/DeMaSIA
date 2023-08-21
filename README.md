@@ -105,6 +105,7 @@ SIA는 인공지능 기술을 통해 지구 관측의 자동화 및 분석의 �
 - Team Member : [주상현](https://github.com/SangHyun014)
     - 모델 검토 및 분석
     - 모델 실험 및 시각화
+    - 논문 리딩
 
 ## Process
 
@@ -326,8 +327,9 @@ MixUp의 아이디어는 두 개의 다른 이미지를 섞어서 새로운 이�
   2. IOU threshold를 변경시키며 parametric search를 진행하여 IOU threshold값이 matching에 어떤 영향을 미치는지 확인하고 싶습니다.
   3. Visdrone 데이터셋은 car와 pedestrian 비율 이외에도 train과 test dataset의 Class Unbalance 문제가 발생하였습니다. 이러한 Unbalanced Classes에 대해 추가 sampling 같은 Augmentation 기법을 적용하여 실험하고 싶습니다. 그리고 이 실험 결과를 Class별과 비디오 Sequence별로 metric을 얻어낸 후 분석하고 싶습니다. 
   
-
-
+---
+**추후 사항**
+혼자 추가적인 실험을 진행 및 개선을 해볼 계획입니다. 앞으로의 업로드는 팀 git이 아닌 개인 git에 업로드 하도록 하겠습니다.
 
 
 
